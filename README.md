@@ -6,7 +6,7 @@ Python kullanarak hesapların kolaylaşması için basit bir hesap makinesi uygu
 
 
 
-## Projeye terminalden nasıl oluşturulr
+## Projeye terminalden nasıl ulaşılır
 `hakanakilli@Hakan-MacBook-Air ~ %  cd Desktop`
   cd Desktop komutunu kullanarak bilgisayarımız seçilmeli.
 
